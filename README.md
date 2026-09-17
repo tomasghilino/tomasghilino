@@ -1,12 +1,13 @@
-### Hi there 👋
+# Hello there!👋
 
+Software Engineer with 4+ years of experience, currently focused on **DevSecOps, Cloud & Security Engineering**.
 
+`AWS` · `Docker` · `Kubernetes` · `Terraform` · `GitHub Actions` · `CI/CD` · `IAM` · `Linux`
 
-- 🌱 Currently working in: Quuack
-- 📫 Contact me: tomasghilino01@gmail.com
-- 🤠 C1 Advanced English.
-- ⚡ Fun fact: In my free time i like to code games in Unreal Engine 5 / Godot, and also learn cybersec. Music (piano, guitar), JiuJitsu.
-- Most of my recent repositories are private (work, and personal projects).
+Background in **TypeScript, Node.js, NestJS, React, Next.js and PostgreSQL**, with experience building, deploying and supporting production systems in small startup teams.
 
-https://www.linkedin.com/in/tomasghilino
+Currently sharpening my cloud and security skills through hands-on DevSecOps projects, Hack The Box and TryHackMe.
 
+🇦🇷 Buenos Aires · 🇬🇧 English C1
+
+[LinkedIn](https://www.linkedin.com/in/tomasghilino/) · [Email](mailto:tomasghilino01@gmail.com)
