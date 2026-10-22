@@ -1,12 +1,12 @@
 # Hello there!👋
 
-Software Engineer with 4+ years of experience, currently focused on **DevSecOps, Cloud & Security Engineering**.
+Software Engineer with 4+ years of experience, currently focused on **DevSecOps & Cloud Security Engineering**.
 
-`AWS` · `Docker` · `Kubernetes` · `Terraform` · `GitHub Actions` · `CI/CD` · `IAM` · `Linux`
+`AWS` · `Terraform` · `Kubernetes` · `Docker` · `GitHub Actions` · `Jenkins` · `Argo CD` · `IAM` · `Python` · `Linux`
 
 Background in **TypeScript, Node.js, NestJS, React, Next.js and PostgreSQL**, with experience building, deploying and supporting production systems in small startup teams.
 
-Currently sharpening my cloud and security skills through hands-on DevSecOps projects, Hack The Box and TryHackMe.
+Working on secure delivery pipelines (SAST, DAST, SCA, secret and IaC scanning, signed container images), Kubernetes hardening, secrets management, least-privilege IAM and multi-account AWS security with SCPs, CloudTrail, Config and Security Hub. Also practicing offensive security on Hack The Box and TryHackMe.
 
 ### Repositories
 
