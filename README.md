@@ -8,7 +8,7 @@ My background combines software development, cloud infrastructure and security, 
 
 **Application Security**
 
-`OWASP Top 10` `API Security` `Secure Code Review` `SAST` `DAST` `SCA` `Burp Suite` `Semgrep`
+`Kali Linux & Tools` `OWASP Top 10` `API Security` `Secure Code Review` `SAST` `DAST` `SCA` `Burp Suite` `Semgrep`
 
 **Cloud & Infrastructure**
 
@@ -42,7 +42,7 @@ I also practice offensive security through hands-on labs on **Hack The Box and T
 
 My repositories include personal, professional and experimental projects developed throughout my engineering journey, including selected security-related implementations.
 
-## Currently Focusing
+## Currently Focusing On
 
 - Application Security and Pentesting.
 - Cloud Security and AWS architecture.
