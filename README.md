@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm a Software Engineer with **5 years of professional experience**, currently focused on **Cloud Security, DevSecOps and Infrastructure Engineering**.
+I'm a Software Engineer with **5 years of professional experience**, currently focused on **Application & Cloud Security, DevSecOps**.
 
 My background combines software development, cloud infrastructure, automation and security. I enjoy working across the entire engineering lifecycle, from application development and infrastructure provisioning to securing deployments and improving production systems.
 
