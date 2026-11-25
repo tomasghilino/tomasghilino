@@ -1,61 +1,57 @@
 # Hello there!
 
-I'm a Software Engineer with **5 years of professional experience**, currently focused on **Application & Cloud Security, DevSecOps**.
+I'm a **Software Engineer with 5 years of professional experience**, currently focused on **Application Security, Cloud Security and DevSecOps**.
 
-My background combines software development, cloud infrastructure, automation and security. I enjoy working across the entire engineering lifecycle, from application development and infrastructure provisioning to securing deployments and improving production systems.
+My background combines software development, cloud infrastructure and security, allowing me to approach security from both an engineering and offensive perspective.
 
 ## Technical Stack
 
+**Application Security**
+
+`OWASP Top 10` `API Security` `Secure Code Review` `SAST` `DAST` `SCA` `Burp Suite` `Semgrep`
+
 **Cloud & Infrastructure**
 
-`AWS` `Terraform` `Kubernetes` `Docker` `Linux`
+`AWS` `IAM` `Organizations` `SCPs` `GuardDuty` `Security Hub` `Terraform` `Kubernetes` `Docker` `Linux`
 
-**DevSecOps & Security**
+**DevSecOps**
 
-`GitHub Actions` `Jenkins` `Argo CD` `IAM` `SAST` `DAST` `SCA` `Trivy` `Checkov` `Semgrep`
+`GitHub Actions` `Jenkins` `Argo CD` `Trivy` `Checkov` `tfsec` `Dependabot`
 
 **Software Engineering**
 
 `TypeScript` `JavaScript` `Python` `Node.js` `NestJS` `React` `Next.js` `PostgreSQL`
 
-**AI Engineering**
+**AI Engineering & Security**
 
-`LLMs` `RAG` `LangChain` `Vector Databases` `AI Agents` `Tool Calling`
+`LLMs` `RAG` `LangChain` `AI Agents` `Prompt Injection`
 
-## Cloud Security & DevSecOps
+## Security Focus
 
-My main areas of interest and hands-on work include:
+- Application and API security.
+- Secure code review and vulnerability assessment.
+- Authentication, authorization and access control.
+- Web application penetration testing.
+- AWS and cloud infrastructure security.
+- CI/CD, container and IaC security.
+- AI application and agent security.
 
-- Secure CI/CD pipelines and automated security testing.
-- Infrastructure as Code security and policy enforcement.
-- Kubernetes and container security.
-- AWS IAM, least-privilege access and multi-account architectures.
-- AWS Organizations, Service Control Policies (SCPs) and centralized security controls.
-- CloudTrail, AWS Config, GuardDuty and Security Hub.
-- Secrets management, vulnerability management and software supply chain security.
-
-I also practice offensive security through Hack The Box and TryHackMe, strengthening my understanding of attack techniques and defensive strategies.
-
-## AI Engineering
-
-I build and experiment with LLM-powered applications, RAG pipelines and AI agents using Python, LangChain, local models and commercial LLM APIs.
-
-Beyond application development, I'm interested in AI security, including prompt injection, tool permissions, data privacy, evaluation strategies and security guardrails.
+I also practice offensive security through hands-on labs on **Hack The Box and TryHackMe**.
 
 ## GitHub Repositories
 
-My GitHub includes a mix of personal, professional and experimental projects developed throughout my career.
+My repositories include personal, professional and experimental projects developed throughout my engineering journey, including selected security-related implementations.
 
-Some of my more recent work is kept in private repositories, while the public repositories include selected projects and earlier work from the beginning of my development journey. Not all public repositories necessarily reflect my current technical focus or experience level.
+## Currently Focusing
 
-## Currently Exploring
+- Application Security and Pentesting.
+- Cloud Security and AWS architecture.
+- AI agent security.
 
-- AWS architecture and security.
-- Terraform and Kubernetes security.
-- Cloud detection and response.
-- AI agent security and secure AI application architectures.
+**Certification Goals**
 
-Currently preparing for **AWS Solutions Architect – Associate (SAA-C03)**, followed by **AWS Security – Specialty (SCS-C03)**.
+- HTB Certified Penetration Testing Specialist (CPTS) → Offensive Security Certified Professional (OSCP).
+- AWS Certified Solutions Architect – Associate (SAA-C03) → AWS Certified Security – Specialty (SCS-C03).
 
 ## Contact
 
